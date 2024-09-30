@@ -1,0 +1,8 @@
+= Building REST Services with Spring
+
+REST has quickly become the de facto standard for building web services on the web because REST services are easy to build and easy to consume.
+
+* Suitable actions (`GET`, `POST`, `PUT`, `DELETE`, and others)
+* Caching
+* Redirection and forwarding
+* Security (encryption and authentication)
